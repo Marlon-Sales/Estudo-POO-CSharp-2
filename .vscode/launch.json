@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "coreclr",
+            "request": "launch",
+            "name": ".NET Launch",
+            "program": "${workspaceFolder}/bin/Debug/net10.0/ScreenSound.dll",
+            "console": "integratedTerminal"
+        }
+    ]
+}
